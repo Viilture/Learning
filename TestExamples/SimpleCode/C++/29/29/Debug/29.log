@@ -1,0 +1,4 @@
+﻿  29.cpp
+C:\MYFILE\Program\TestExamples\SimpleCode\C++\29\29\29.cpp(13,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\MYFILE\Program\TestExamples\SimpleCode\C++\29\29\29.cpp(11,9): warning C4101: a: неиспользованная локальная переменная
+  29.vcxproj -> C:\MYFILE\Program\TestExamples\SimpleCode\C++\29\29\Debug\29.exe

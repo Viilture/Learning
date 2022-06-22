@@ -1,0 +1,5 @@
+﻿  Test8-3.cpp
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\Test8\test8-3\Test8-3\Test8-3.cpp(60,29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\Test8\test8-3\Test8-3\Test8-3.cpp(62,29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\Test8\test8-3\Test8-3\Test8-3.cpp(56): warning C4715: Monster::getTypeString: значение возвращается не при всех путях выполнения
+  Test8-3.vcxproj -> C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\Test8\test8-3\Test8-3\Debug\Test8-3.exe

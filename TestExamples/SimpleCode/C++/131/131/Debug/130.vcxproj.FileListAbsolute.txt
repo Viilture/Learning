@@ -1,0 +1,2 @@
+C:\MYFILE\Program\TestExamples\SimpleCode\C++\130(SmartPoint)\130\Debug\130.exe
+C:\MYFILE\Program\TestExamples\SimpleCode\C++\131\131\Debug\130.exe

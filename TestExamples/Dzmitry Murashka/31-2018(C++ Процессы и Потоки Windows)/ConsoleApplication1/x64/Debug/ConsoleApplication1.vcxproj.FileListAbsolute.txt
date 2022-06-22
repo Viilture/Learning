@@ -1,0 +1,1 @@
+C:\MYFILE\Program\TestExamples\Dzmitry Murashka\31-2018(C++ Процессы и Потоки Windows)\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

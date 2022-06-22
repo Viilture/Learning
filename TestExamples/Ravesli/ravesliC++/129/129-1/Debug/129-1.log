@@ -1,0 +1,5 @@
+﻿  129-1.cpp
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\129\129-1\129-1.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\129\129-1\129-1.cpp(40,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\129\129-1\129-1.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+  129-1.vcxproj -> C:\MYFILE\Program\TestExamples\Ravesli\ravesliC++\129\129-1\Debug\129-1.exe

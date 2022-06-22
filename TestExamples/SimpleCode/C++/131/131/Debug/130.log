@@ -1,0 +1,3 @@
+﻿  130.cpp
+C:\MYFILE\Program\TestExamples\SimpleCode\C++\131\131\130.cpp(39,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  130.vcxproj -> C:\MYFILE\Program\TestExamples\SimpleCode\C++\131\131\Debug\130.exe

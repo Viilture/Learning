@@ -1,0 +1,8 @@
+﻿  Serialize1.cpp
+C:\MYFILE\Program\MyProgram\Serialize\Serialize1\Serialize1.cpp(20,41): error C2664: "std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::read(_Elem *,std::streamsize)": невозможно преобразовать аргумент 1 из "const _Elem *" в "_Elem *"
+          with
+          [
+              _Elem=char
+          ]
+C:\MYFILE\Program\MyProgram\Serialize\Serialize1\Serialize1.cpp(20,26): message : В результате преобразования теряются квалификаторы
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\istream(513,39): message : см. объявление "std::basic_istream<char,std::char_traits<char>>::read"
